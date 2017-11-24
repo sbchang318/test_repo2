@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hello World
+
+This is the test page (2) by J318
 
 You can use the [editor on GitHub](https://github.com/sbchang318/test_repo2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
